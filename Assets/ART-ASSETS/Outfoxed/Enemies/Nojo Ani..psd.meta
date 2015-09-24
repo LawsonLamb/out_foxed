@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 912c3367b22953f4889500d6cb42a406
+timeCreated: 1428874101
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nojo Ani._0
+    21300002: Nojo Ani._1
+    21300004: Nojo Ani._2
+    21300006: Nojo Ani._3
+    21300008: Nojo Ani._4
+    21300010: Nojo Ani._5
+    21300012: Nojo Ani._6
+    21300014: Nojo Ani._7
+    21300016: Nojo Ani._8
+    21300018: Nojo Ani._9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Nojo Ani._0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 134
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 134
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 134
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 134
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 9
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nojo Ani._9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 9
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

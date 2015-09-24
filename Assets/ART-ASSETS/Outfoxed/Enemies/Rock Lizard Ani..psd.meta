@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 6d51103bf605e034aa1d7f9558db7d0a
+timeCreated: 1428874069
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rock Lizard Ani._0
+    21300002: Rock Lizard Ani._2
+    21300004: Rock Lizard Ani._3
+    21300006: Rock Lizard Ani._4
+    21300008: Rock Lizard Ani._5
+    21300010: Rock Lizard Ani._6
+    21300012: Rock Lizard Ani._7
+    21300014: Rock Lizard Ani._8
+    21300016: Rock Lizard Ani._9
+    21300018: Rock Lizard Ani._1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rock Lizard Ani._0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 207
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 118
+        width: 211
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 118
+        width: 211
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._4
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 118
+        width: 206
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 206
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 211
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 211
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3
+        width: 211
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3
+        width: 206
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rock Lizard Ani._1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 118
+        width: 212
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

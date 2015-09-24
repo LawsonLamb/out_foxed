@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 5324e4bfd87bc734d85ee9cd6d2bb450
+timeCreated: 1428874118
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goy Ani._0
+    21300002: Goy Ani._1
+    21300004: Goy Ani._2
+    21300006: Goy Ani._3
+    21300008: Goy Ani._4
+    21300010: Goy Ani._5
+    21300012: Goy Ani._6
+    21300014: Goy Ani._7
+    21300016: Goy Ani._8
+    21300018: Goy Ani._9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Goy Ani._0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 112
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 112
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goy Ani._9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

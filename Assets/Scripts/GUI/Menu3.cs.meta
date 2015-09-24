@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8351f6498d894c46a8acfd0e8ead0ad
+timeCreated: 1429535599
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - batteryOutline: {fileID: 2800000, guid: f1a24ffe76fc610419ac9e4f8491edfd, type: 3}
+  - batteryJuice: {fileID: 2800000, guid: ef4faaa7e70e88c429d1048f181f8daa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
